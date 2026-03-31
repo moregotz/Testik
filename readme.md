@@ -13,3 +13,7 @@
 
 # Создание коммита:
 # git commit -m "Initial commit"
+
+# 7824fca (HEAD -> main) readme marks
+# хэш коммита             подпись коммита
+
